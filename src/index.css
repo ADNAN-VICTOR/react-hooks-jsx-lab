@@ -17,6 +17,7 @@ h5,
 h6 {
   font-family: "Playfair Display", serif;
   margin-bottom: 1em;
+
 }
 
 nav {
@@ -61,4 +62,7 @@ nav a:active {
 
 #about img {
   max-height: 50%;
+}
+h1{
+  color: firebrick;
 }
